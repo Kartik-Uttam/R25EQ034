@@ -33,4 +33,4 @@ We pair-programmed a reusable `greet()` function in Python. It takes a person's 
 - I made the commit and pushed it, and added my partner as a co-author so both of us are credited in the project history.
 
 ### One Thing I Learned
-I learned that Git can credit more than one person on a single commit by adding a `Co-authored-by: Name <email>` line at the end of the commit message. This was useful because the commit shows both of our contributions, and the email must match the partner's GitHub account for the credit to link correctly. It showed me that teamwork can be recorded clearly in the commit history.
+I learned that Git can credit more than one person on a single commit by adding a `Co-authored-by: PARAMANAND-KRISHNA-YADAV <284206267+PARAMANAND-KRISHNA-YADAV@users.noreply.github.com>` line at the end of the commit message. This was useful because the commit shows both of our contributions, and the email must match the partner's GitHub account for the credit to link correctly. It showed me that teamwork can be recorded clearly in the commit history.
