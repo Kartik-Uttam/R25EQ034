@@ -21,7 +21,7 @@ Hi, I am Kartik Uttam, a third-semester Information Science and Engineering stud
 ## Collaboration Log
 
 ### Partner
-- **Name:** PARTNER-NAME
+- **Name:** PARAMANAND-KRISHNA-YADAV
 - **GitHub:** [@PARAMANAND-KRISHNA-YADAV](https://github.com/PARAMANAND-KRISHNA-YADAV)
 
 ### What We Built
