@@ -17,3 +17,20 @@ Hi, I am Kartik Uttam, a third-semester Information Science and Engineering stud
 - Git and GitHub
 - Supabase (backend)
 - React (learning)
+
+## Collaboration Log
+
+### Partner
+- **Name:** PARTNER-NAME
+- **GitHub:** [@PARAMANAND KRISHNA YADAV](https://github.com/PARAMANAND-KRISHNA-YADAV)
+
+### What We Built
+We pair-programmed a reusable `greet()` function in Python. It takes a person's name as input and returns a personalised welcome message, for example `Hello, World! Welcome to my portfolio.` We planned the function together, wrote and tested it in `greet.py`, and then committed and pushed it to this repository. My partner is credited on the commit as a co-author using the `Co-authored-by` trailer, and the credit is visible both on GitHub and in GitLens.
+
+### How We Worked
+- We discussed the function together before writing any code, and decided what it should take as input and return as output.
+- We wrote the code together, then tested it by running `greet.py` and checking the output.
+- I made the commit and pushed it, and added my partner as a co-author so both of us are credited in the project history.
+
+### One Thing I Learned
+I learned that Git can credit more than one person on a single commit by adding a `Co-authored-by: Name <email>` line at the end of the commit message. This was useful because the commit shows both of our contributions, and the email must match the partner's GitHub account for the credit to link correctly. It showed me that teamwork can be recorded clearly in the commit history.
