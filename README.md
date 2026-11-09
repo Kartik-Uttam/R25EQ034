@@ -22,7 +22,7 @@ Hi, I am Kartik Uttam, a third-semester Information Science and Engineering stud
 
 ### Partner
 - **Name:** PARTNER-NAME
-- **GitHub:** [@PARAMANAND KRISHNA YADAV](https://github.com/PARAMANAND-KRISHNA-YADAV)
+- **GitHub:** [@PARAMANAND-KRISHNA-YADAV](https://github.com/PARAMANAND-KRISHNA-YADAV)
 
 ### What We Built
 We pair-programmed a reusable `greet()` function in Python. It takes a person's name as input and returns a personalised welcome message, for example `Hello, World! Welcome to my portfolio.` We planned the function together, wrote and tested it in `greet.py`, and then committed and pushed it to this repository. My partner is credited on the commit as a co-author using the `Co-authored-by` trailer, and the credit is visible both on GitHub and in GitLens.
